@@ -9,7 +9,7 @@
 
 I'm a dedicated **mobile app developer** specializing in **.NET MAUI** for cross-platform apps, along with **React** and **TypeScript** for front-end development. I work with a variety of database systems like **SQL**, **MongoDB**, and **PostgreSQL**, creating scalable and efficient solutions.
 
-When I'm not coding, I enjoy contributing to open-source projects, learning new tech, and collaborating with the dev community. I'm also a street photographer, i love cars and i enjoy watching anime.
+When I'm not coding, I enjoy contributing to open-source projects, learning new tech, and collaborating with the dev community. I'm also a street photographer, I love cars and enjoy watching anime.
 
 ## 💻 Tech Stack
 
