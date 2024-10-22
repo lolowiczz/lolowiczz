@@ -1,9 +1,16 @@
 # 👋 Hey, I'm Miłosz!
 
+<img src="https://cdn.discordapp.com/attachments/1296222763530584106/1298427698900635659/banner.png?ex=67198687&is=67183507&hm=eedb06f78fa4e681f6919c4183555e9e16cd7ce2eeee39fca8ff6f4f47b65849&" alt="Hello world">
+
 [![GitHub followers](https://img.shields.io/github/followers/lolowiczz?label=Follow&style=social)](https://github.com/lolowiczz)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lolowiczz/)
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-green)](https://codelaunch.pl)
 [![Discord](https://img.shields.io/discord/your-discord-server-id?label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/HJTDT2Y9aC)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lolowiczz/count.svg" />
+</p>
 
 ## 🚀 About Me
 
