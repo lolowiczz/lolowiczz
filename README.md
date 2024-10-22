@@ -35,7 +35,7 @@ When I'm not coding, I enjoy contributing to open-source projects, learning new 
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Technologies**:
+- **Technologies**:  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
   ![REST](https://img.shields.io/badge/REST-007ACC?style=for-the-badge)  
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
