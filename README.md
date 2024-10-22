@@ -38,7 +38,6 @@ When I'm not coding, I enjoy contributing to open-source projects, learning new 
 - **Technologies**:  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
   ![REST](https://img.shields.io/badge/REST-007ACC?style=for-the-badge)  
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
